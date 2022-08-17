@@ -1,4 +1,4 @@
-# 2022I_GBI6_ExamenRecuperacion
+# 2022I_Recuperacion
 
 # BIOINFORMATICA
 
